@@ -43,18 +43,6 @@ Copy code
 python main.py
 Follow the on-screen instructions to interact with the system.
 
-Project Structure
-plaintext
-Copy code
-Manage-Warehouse-OOP-Python/
-│
-├── main.py              # Entry point for the application
-├── inventory.py         # Module for managing inventory operations
-├── orders.py            # Module for handling order processing
-├── suppliers.py         # Module for managing supplier interactions
-├── ui.py                # Module for user interface and input handling
-├── reports.py           # Module for generating and exporting reports
-└── README.md            # Project documentation (this file)
 Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request. Make sure to follow the project's coding guidelines and include detailed descriptions of your changes.
 
